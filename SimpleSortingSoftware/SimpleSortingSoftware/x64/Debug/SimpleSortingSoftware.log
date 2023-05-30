@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\olegk\source\repos\SimpleSortingSoftware\SimpleSortingSoftware\MyForm.h(320,5): warning C4566: символ, представленный универсальным именем символа "\u200B", невозможно представить в текущей кодовой странице (1251)
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  SimpleSortingSoftware.vcxproj -> C:\Users\olegk\source\repos\SimpleSortingSoftware\x64\Debug\SimpleSortingSoftware.exe

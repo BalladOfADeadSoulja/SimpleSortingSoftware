@@ -1,0 +1,4 @@
+C:\Users\olegk\source\repos\SimpleSortingSoftware\SimpleSortingSoftware\x64\Debug\SimpleSortingSoftware.vcxproj.AssemblyReference.cache
+C:\Users\olegk\source\repos\SimpleSortingSoftware\SimpleSortingSoftware\x64\Debug\SimpleSortingSoftware.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\olegk\source\repos\SimpleSortingSoftware\SimpleSortingSoftware\x64\Debug\SimpleSortingSoftware.MyForm.resources
+C:\Users\olegk\source\repos\SimpleSortingSoftware\SimpleSortingSoftware\x64\Debug\SimpleSortingSoftware.vcxproj.GenerateResource.cache
